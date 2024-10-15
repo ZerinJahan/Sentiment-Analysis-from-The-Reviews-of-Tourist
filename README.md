@@ -1,2 +1,2 @@
-# Sentiment-Analysis-from-The-Reviews-of-Tourist
- A tourist accommodation reviews of hotels and restaurants in Thailand by sentiment analysis
+# Sentiment Analysis from the Reviews of Tourists
+The project titled "Sentiment Analysis from the Reviews of Tourists" focuses on analysing tourist reviews to detect various types of sentiments and emotions. It involves text analysis and the use of the VADER lexicon for sentiment classification. The project is developed using Python in Jupyter Notebook, with libraries like Pandas, NumPy, Matplotlib, and Seaborn for data processing, analysis, and visualisation of sentiment trends in the reviews.
